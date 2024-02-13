@@ -1,0 +1,13 @@
+{
+	"crontab": "* * * * *",
+	"poster": "atproto",
+	"service": "https://bsky.social",
+	"identifier": "cheap-botsky-dev.bsky.social",
+	"password": "tt3i-eu6j-k6ob-pbq7",
+	"grammar": {
+			"origin": "hello #world#, we are posting with #gas#.",
+			"reply-origin": "hello @#context-author-handle#, we are replying with #gas#",
+			"world": ["world", "friends", "comrades", "cowards", "esteemed guests"],
+			"gas": ["gas", "petrol", "an app"]
+		}
+}
