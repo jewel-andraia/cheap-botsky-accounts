@@ -1,5 +1,5 @@
 {
-	"crontab": "* * * * *",
+	"crontab": "* */6 * * *",
 	"poster": "atproto",
 	"service": "https://bsky.social",
 	"identifier": "cheap-botsky-dev.bsky.social",
